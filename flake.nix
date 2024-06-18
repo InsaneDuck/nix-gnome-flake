@@ -28,7 +28,7 @@
                 {
                     home-manager.useGlobalPkgs = true;
                     home-manager.useUserPackages = true;
-                    # TODO replace ryan with your own username
+                    # TODO replace siva with your own username
                     home-manager.users.siva = import ./home/home.nix;
                     # Optionally, use home-manager.extraSpecialArgs to pass arguments to home.nix
                 }
