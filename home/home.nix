@@ -8,6 +8,7 @@
     ./git.nix
     ./starship.nix
     ./packages.nix
+    ./steam.nix
   ];
 
   # Let home Manager install and manage itself.
