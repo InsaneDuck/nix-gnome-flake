@@ -19,6 +19,7 @@
          github-desktop
          gnupg
          godot_4
+         google-chrome
          gparted
          gradle
          gthumb
