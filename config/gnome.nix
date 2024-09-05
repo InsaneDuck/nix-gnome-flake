@@ -14,6 +14,7 @@
          gnomeExtensions.dash-to-panel
          gnomeExtensions.gsconnect
          gnomeExtensions.unite
+         gnomeExtensions.applications-menu
     ];
 
     environment.gnome.excludePackages = (with pkgs; [
