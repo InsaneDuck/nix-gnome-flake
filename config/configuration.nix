@@ -8,6 +8,7 @@
       ./packages.nix
       ../gnome/gnome.nix
       ../home/steam.nix
+      ../gnome/dconf.nix
     ];
   nix.settings.experimental-features = [ "nix-command" "flakes" ];
   # Bootloader.
