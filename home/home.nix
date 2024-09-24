@@ -9,7 +9,6 @@
     ./starship.nix
     ./packages.nix
     ../gnome/dconf.nix
-
   ];
 
   # Let home Manager install and manage itself.
