@@ -147,9 +147,6 @@
     isNormalUser = true;
     description = "Siva";
     extraGroups = [ "networkmanager" "wheel" ];
-    packages = with pkgs; [
-      firefox
-    ];
   };
   virtualisation.libvirtd.enable = true;
   # Allow unfree packages
