@@ -13,6 +13,7 @@
          docker
          efibootmgr
          fish
+         firefox
          galaxy-buds-client
          gcc
          gcolor3
