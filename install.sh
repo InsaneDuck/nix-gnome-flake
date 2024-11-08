@@ -1,1 +1,1 @@
- sudo nixos-rebuild switch --flake './#insaneduck-nixos'
+ sudo nixos-rebuild switch --flake './#insaneduck-nixos' --impure
