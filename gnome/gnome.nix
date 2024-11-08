@@ -18,6 +18,6 @@
     ];
 
     environment.gnome.excludePackages = (with pkgs; [
-        gnome.gnome-shell-extensions
+        gnome-shell-extensions
     ]);
 }
