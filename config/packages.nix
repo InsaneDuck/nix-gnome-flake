@@ -66,6 +66,6 @@
          wget
          yarn
          yarn-bash-completion
-         youtube-dl
+
       ];
 }

@@ -5,11 +5,11 @@
     # $ nix search wget
     environment.systemPackages = with pkgs; [
          gnome-builder
-         gnome.dconf-editor
-         gnome.gnome-boxes
-         gnome.gnome-chess
-         gnome.gnome-tweaks
-         gnome.sushi
+         dconf-editor
+         gnome-boxes
+         gnome-chess
+         gnome-tweaks
+         sushi
          gnomeExtensions.clipboard-indicator
          gnomeExtensions.dash-to-panel
          gnomeExtensions.gsconnect
