@@ -21,7 +21,7 @@
 
   system.autoUpgrade = {
       enable = true;
-      channel = "https://channels.nixos.org/nixos-unstable";
+
       flake = inputs.self.outPath;
       flags = [
         "--update-input"
